@@ -4,7 +4,8 @@ kkeng7's first hello world
 #include <cs50.h>
 
 int main(void)
+{
+  printf("This is CS 50\n");
+}
 
-this is cs 50 
 
-thank you professor
